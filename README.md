@@ -19,5 +19,25 @@ The target feature in the dataset is 'math_score'.
 
 # Data Analysis
 
-Here, various features are analysed. various steps like
+Here, various features are analysed. various steps like:
+
+* Check for missing values
+* Check for duplicated values
+* Check for data type of each feature
+* Check for unique values
+* Check for stataistics summary of the data
+* Check for numerical and categorical features in the data
+* Check for outliers
+
+  # Feature Engineering
+
+  Missing values are handled using imputation. Categorical features are converted into numerical features using one hot encoder.
+
+  # Data Visualization:
+
+  All the features are visualized using various plots like histogram, kde, coutplot and scattterplot. Varois analysis like univariate nalaysis and Bivarite analysis are performed  in order to find out the relation between various features.
+
+  
+
+  
 
