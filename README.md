@@ -17,7 +17,7 @@ The dataset consists of 1000 observations and 8 features. THe various features o
 
 The target feature in the dataset is 'math_score'.
 
-# Data Analysis
+# Data Analysis:
 
 Here, various features are analysed. various steps like:
 
@@ -29,11 +29,11 @@ Here, various features are analysed. various steps like:
 * Check for numerical and categorical features in the data
 * Check for outliers
 
-  # Feature Engineering
+  # Feature Engineering:
 
   Missing values are handled using imputation. Categorical features are converted into numerical features using one hot encoder.
 
-  # Data Visualization
+  # Data Visualization:
 
   All the features are visualized using various plots like histogram, kde, coutplot and scattterplot. Varois analysis like univariate nalaysis and Bivarite analysis are performed  in order to find out the relation between various features.
 
@@ -49,15 +49,15 @@ The above image shows the average scores obtained by students of each group wrt 
 
 This plot shows how the features are related to each other and the target variable 'math_score'. It shows that there is purely linear relationship between the features.
 
-# Model Training
+# Model Training:
 
 Various machine learning models like Linear regression, Random Forest, Decision Tree, KNN, GradientBoost, AdaBoost, XGBoost and CatBoost were implemented along with the hyper parameter tuning. 
 
-# Model Evaluation
+# Model Evaluation:
 
 All the models are evaluated in terms of r2_Score and the model with highest r2_score is considered as the best model. Here, linear regression model is the best model with the r2_score of 0.88.
 
-# Model Deployment
+# Model Deployment:
 
 The web application is developed using Flask. The model is successfully deployed using AWS Elastic Beanstalk and codepipeline. This two were helpful in creating the required environment and creating the pipeline connecting the environment and source code for the application deployment.
 
