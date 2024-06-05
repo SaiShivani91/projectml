@@ -59,7 +59,7 @@ All the models are evaluated in terms of r2_Score and the model with highest r2_
 
 # Model Deployment:
 
-The web application is developed using Flask. The model is successfully deployed using AWS Elastic Beanstalk and codepipeline. This two were helpful in creating the required environment and creating the pipeline connecting the environment and source code for the application deployment.
+The web application is developed using Flask. The model is successfully deployed using AWS Elastic Beanstalk and codepipeline. This two were helpful in creating the required environment and creating the pipeline connecting the environment and source code for the application deployment enabling the continuous delivery (CD).
 
 
   
