@@ -37,7 +37,9 @@ Here, various features are analysed. various steps like:
 
   All the features are visualized using various plots like histogram, kde, coutplot and scattterplot. Varois analysis like univariate nalaysis and Bivarite analysis are performed  in order to find out the relation between various features.
 
-  ![image](https://github.com/SaiShivani91/projectml/assets/167123523/36006f2c-b856-496b-883c-61feaf61ddff)
+  ![image](https://github.com/SaiShivani91/projectml/assets/167123523/36006f2c-b856-496b-883c-61feaf61ddff 'Distribution of Female and Male')
+
+  The above image 
 
 
   
