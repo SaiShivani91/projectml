@@ -6,7 +6,7 @@ Data collection, Data Analysis, Feature Engineering, Data Visualization, Model T
 # Data Collection:
 
 The dataset consists of 1000 observations and 8 features. THe various features of the dataset are:
- - 'gender': Describes the gender of the student (Male and Female)
+* 'gender': Describes the gender of the student (Male and Female)
 * 'race_ethnicity': Describes the race/ethnicity of the student (group A, group B, group C, group D and group E)
 * 'parental_level_of_education': Describes the parents' education level of the student (bachelors' degree, associates' degree, some college, masters' degree, high school and some high school)
 * 'lunch': Describes the type of lunch student has taken before exam (standard and free/reduced)
